@@ -1,0 +1,17 @@
+1001,Md rafiq ,17500.0
+1002,Ashikur rahman,20000.0
+1003,Md rafiul,17500.0
+1004,Md mohsin,1000.0
+1005,Md nabil,23000.0
+1006,Md Emon,1200.0
+1007,Md jakir,12000.0
+1007,Md Faisal,1200.0
+1008,Md Ashik,12000.0
+1009,Md tanjil,12000.0
+1010,Md Hasan,12000.0
+1011,Md Iqbal,14500.0
+1012,Md Rajib,15000.0
+1013,Mehedi Hasan,18000.0
+1014,Zunaid Hasan,18000.0
+1015,Imtiaz,12000.0
+1016,Jahirul haque,14300.0

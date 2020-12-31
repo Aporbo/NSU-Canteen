@@ -1,0 +1,23 @@
+pizza,130.0,1000
+Burger,130.0,9986
+wedges,10.0,5000
+khichuri,90.0,997
+Fride rice,80.0,1000
+Chicken Fry,50.0,1200
+Sandwitch ,40.0,1500
+Salad,70.0,1198
+Alu paratha ,30.0,500
+Paratha,10.0,400
+Dim bhuna,40.0,1200
+Teheri,90.0,300
+Plain Rice,15.0,500
+Chicken Curry,100.0,400
+Pastry Cake,150.0,300
+Biriyani,200.0,500
+Mutton Curry,80.0,500
+Noodles,150.0,300
+Chaomin,170.0,300
+Pasta,200.0,345
+Beef Curry,100.0,1000
+Vegetable,40.0,500
+Rice,20.0,200
